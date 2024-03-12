@@ -570,7 +570,7 @@ class company_rater_industry_analysis:
         data['Investment_Score'] = round(data['Investment_Score'])
 
 #for weight dict
-weights = pd.read_csv("Data\Weights for Overall Score.csv")
+weights = pd.read_csv("Data/Weights for Overall Score.csv")
 weights.set_index('Index_Name',inplace=True)
 weights = weights.astype('float64')
 weights_dict = {}
