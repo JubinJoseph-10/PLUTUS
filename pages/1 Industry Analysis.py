@@ -103,6 +103,11 @@ css = f'''<style>
     }}
 
 
+    [data-testid="stSidebarNavCollapseIcon"] {{
+    display: none !important;
+    }}    
+
+
     </style>'''
 
 
