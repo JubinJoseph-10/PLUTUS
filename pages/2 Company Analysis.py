@@ -103,10 +103,9 @@ css = f'''<style>
     background-size:cover;
     }}
     
-    [data-testid="stSidebarNavSeparator"] {{
+    [data-testid="stSidebarNavCollapseIcon"] {{
     display: none !important;
-    }}
-    
+    }}    
     </style>'''
 
 
