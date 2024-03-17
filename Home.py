@@ -43,6 +43,11 @@ sidebar_style = """
     }
 
 
+    .st-emotion-cache-pkbazv eczjsme5{
+    color:white;
+    }
+
+
 </style>
 """
 # Apply the CSS
