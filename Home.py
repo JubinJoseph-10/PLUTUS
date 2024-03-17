@@ -35,6 +35,10 @@ sidebar_style = """
     }
 
 
+    .st-emotion-cache-5e3qx1{
+    color:white;
+    }
+
 </style>
 """
 # Apply the CSS
