@@ -51,6 +51,10 @@ sidebar_style = """
         align-items: center;
     }
 
+    .st-emotion-cache-79elbk.eczjsme10 span {
+        color: white;
+    }
+
 </style>
 """
 
@@ -139,9 +143,9 @@ css = f'''<style>
     background-size:cover;
     }}
     
-    [data-testid="stSidebarNavSeparator"] {{
+    [data-testid="stSidebarNavCollapseIcon"] {{
     display: none !important;
-    }}
+    }}    
     
     </style>'''
 
