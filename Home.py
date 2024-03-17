@@ -46,7 +46,7 @@ sidebar_style = """
     color:white;
     }
 
-    .st-emotion-cache-pkbazv eczjsme5 span {
+    .st-emotion-cache-79elbk eczjsme10 span {
         color: white;
     }
 
