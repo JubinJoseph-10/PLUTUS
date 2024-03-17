@@ -218,7 +218,7 @@ team_space.markdown(
 # Open the image file
 image_edwin = Image.open("Graphics/Profile Pictures/Edwin_Joice.png")
 image_shambhavi = Image.open("Graphics/Profile Pictures/Shambhavi_Mishra.png")
-image_akansha = Image.open("Graphics\Profile Pictures\Akansha_Choudhary.png")
+image_akansha = Image.open("Graphics/Profile Pictures/Akansha_Choudhary.png")
 image_jubin = Image.open("Graphics/Profile Pictures/Jubin_Joseph.png")
 
 #Defining column structure for the contributors
