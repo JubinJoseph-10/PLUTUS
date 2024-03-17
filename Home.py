@@ -99,7 +99,7 @@ css = f'''<style> [data-testid="stAppViewContainer"] > .main {{
     }}
 
 
-    [data-testid="stVerticalBlockBorderWrapper"][class="st-emotion-cache-ixecyn e1f1d6gn0"]{{
+    [data-testid="stVerticalBlockBorderWrapper"][class="st-emotion-cache-r421ms e1f1d6gn0"]{{
     background-color:rgba(0,0,0,.5);
     background-size:cover;
     }}
