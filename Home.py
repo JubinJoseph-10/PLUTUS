@@ -42,7 +42,7 @@ sidebar_style = """
     }
 
 
-    .st-emotion-cache-j7qwjs.eczjsme7{
+    .st-emotion-cache-pkbazv eczjsme5{
     color:white;
     }
 
