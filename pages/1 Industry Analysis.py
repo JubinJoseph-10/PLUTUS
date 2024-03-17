@@ -938,7 +938,7 @@ def model_predictor_graph(Ticker_Name,forecasted_value,mape):
     df = yf.download(Ticker_Name)
     
     ##reading the data file to creat dates for forecast
-    trading_days = pd.read_csv(r"C:\Users\jubin\OneDrive\Desktop\GT Project 1\Data\Trading_Days_2024.csv")
+    trading_days = pd.read_csv("Data/Trading_Days_2024.csv")
     current_day = df.tail(1).index[0]
     trading_days['Dates'] = pd.to_datetime(trading_days['Dates'])
     forecast_date = trading_days[trading_days['Dates']>current_day].iloc[0]['Dates']
