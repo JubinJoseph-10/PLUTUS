@@ -103,10 +103,6 @@ css = f'''<style>
     }}
 
 
-    [data-testid="stSidebarNavSeparator"] {{
-    display: none !important;
-    }}    
-
     </style>'''
 
 
