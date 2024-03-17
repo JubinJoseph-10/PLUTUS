@@ -98,7 +98,7 @@ css = f'''<style> [data-testid="stAppViewContainer"] > .main {{
 
 
     [data-testid="stSidebarNavLink"]{{
-    background-color:rgba(0,0,0,.75);
+    background-color:rgba(225,225,225,.90);
     background-size:cover;
     }}
 
