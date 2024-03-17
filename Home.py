@@ -34,7 +34,9 @@ sidebar_style = """
         color: rgb(225, 225, 225);
     }
 
-
+    .st-emotion-cache-1pbsqtx{
+    color:white;
+    }
     .st-emotion-cache-5e3qx1{
     color:white;
     }
