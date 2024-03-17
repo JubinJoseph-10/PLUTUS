@@ -23,6 +23,8 @@ def get_image_as_base64(file):
     return base64.b64encode(data).decode()
 
 # Define CSS for image alignment
+
+#Third element change is for making the arrow of the sidebar white
 sidebar_style = """
 <style>
     .st-emotion-cache-1rtdyuf {
@@ -34,15 +36,11 @@ sidebar_style = """
         color: rgb(225, 225, 225);
     }
 
-'''For making the expansion arrow white in color'''
+
     .st-emotion-cache-1pbsqtx{
     color:white;
     }
     
-    .st-emotion-cache-5e3qx1{
-    color:white;
-    }
-
 </style>
 """
 # Apply the CSS
