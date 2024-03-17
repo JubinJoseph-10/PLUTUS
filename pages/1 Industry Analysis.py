@@ -51,6 +51,12 @@ sidebar_style = """
         .element-container st-emotion-cache-lark4g e1f1d6gn4{
         align-items: center;
     }
+
+    .st-emotion-cache-79elbk.eczjsme10 span {
+        color: white;
+    }
+
+    
 </style>
 """
 # Apply the CSS
