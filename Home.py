@@ -40,6 +40,12 @@ sidebar_style = """
     .st-emotion-cache-1pbsqtx{
     color:white;
     }
+
+
+    .st-emotion-cache-j7qwjs eczjsme7{
+    color:white;
+    }
+
     
 </style>
 """
