@@ -693,7 +693,6 @@ def calculate_technical_indicators(dat):
 
 #function to give a forecasted stock price
 #the fucntion to combine the model and forecast the required output
-@st.cache_resource
 def stock_prediction(ticker):
 
     dat = yf.download(ticker)
@@ -811,7 +810,6 @@ y_forcast,MAPE,r2 = stock_prediction(tick)
 
 
 #function to plot the forecast output in a matplotlib chart 
-@st.cache_resource
 def model_predictor_graph(Ticker_Name,forecasted_value,mape):
     #importing required libraries
     import numpy as np
