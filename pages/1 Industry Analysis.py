@@ -614,7 +614,7 @@ display_frame['Valuation'] = req['Valuation']
 col1,col2 = st.columns([.25,.75])
 
 ratings_space_1 = col1.container(border=True)
-ratings_space_1.write("<span style='color:#00838F'>Ratings Description:</span>",unsafe_allow_html=True)
+ratings_space_1.write("<span style='color:#00838F'>Ratings Description</span>",unsafe_allow_html=True)
 ratings_space_1.markdown('<div style="text-align: justify; font-size: 12px">This table presents investment ratings derived from the analysis of financial ratios for various companies in their respective industries. The ratings are determined using the latest financial year\'s data, with each financial ratio assigned a weight according to the industry in which the company operates. These weighted ratios provide insights into the financial health and performance of the companies, aiding in investment decision-making. <br><br> Note of Caution: It\'s important to recognize that the ratings presented here are a result of our analysis and may reflect our opinions and perspectives. Your own analysis and opinions may differ based on different interpretations of the data and varying investment strategies.</div>',unsafe_allow_html=True)
 ratings_space_1.write('\n')
 ratings_space_2 = col2.container(border=True,height=477)
